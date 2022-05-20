@@ -5,14 +5,14 @@ modifed version of : https://github.com/besuper/TwitchNoSub
 
 Be able to watch any sub-only vod on Twitch, integrated in the website with the chat. (Only work for chrome/edge for now)
 
-#Features
+# Features
 Integrated in Twitch (not fully)
 
 Save current time/sound state for vod
 
 In real time chat
 
-#Download & installation
+# Download & installation
 Download the latest release in the releases sections or clone the repo. You have to install the extension manually:
 
 Go in manage extension (chrome://extensions/ in chrome)
