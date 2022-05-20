@@ -3,8 +3,6 @@
 edited version of : https://github.com/besuper/TwitchNoSub
 (added quality options from 160p to source (max resolution)
 
-TwitchNoSub
-
 Be able to watch any sub-only vod on Twitch, integrated in the website with the chat. (Only work for chrome/edge for now)
 
 Features
