@@ -16,7 +16,7 @@ In real time chat
 You have to install the extension manually:
 
 Go in manage extension (chrome://extensions/ in chrome)
-Hit Load unpacked extension and select the unzipped folder of the extension.
+Hit Load unpacked extension (after enabling developer mod) and select the unzipped folder of the extension.
 
 # Usage
 Go on a Twitch vod page (https://www.twitch.tv/videos/*) and refresh the page to watch it.
