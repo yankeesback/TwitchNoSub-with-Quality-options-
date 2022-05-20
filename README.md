@@ -12,8 +12,8 @@ Save current time/sound state for vod
 
 In real time chat
 
-# Download & installation
-Download the latest release in the releases sections or clone the repo. You have to install the extension manually:
+# installation
+You have to install the extension manually:
 
 Go in manage extension (chrome://extensions/ in chrome)
 Hit Load unpacked extension and select the unzipped folder of the extension.
